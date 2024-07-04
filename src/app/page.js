@@ -21,7 +21,7 @@ export default function Home() {
       percentage: 98,
     },
     {
-      title: "Figma",
+      title: "NodeJs",
       color: "#dd584f",
       percentage: 50,
     },
